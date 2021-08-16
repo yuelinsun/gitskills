@@ -6,8 +6,6 @@ I added this line.
 I added this line,too.
 Creating a new branch is quick AND simple.
 Creating a new branch is quick & simple.
-<<<<<<< HEAD
 Creating a new branch is quick & simple, too.
-=======
 Creating a new branch is quick and simple, again.
->>>>>>> feature1
+
